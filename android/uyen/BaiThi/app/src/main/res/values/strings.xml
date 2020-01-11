@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HOMESTAY </string>
+    <string-array name="names">
+        <item>Chọn loại phòng</item>
+        <item id="pdon">Phòng đơn</item>
+        <item id="pdoi">Phòng đôi</item>
+        <item id="pda">Phòng đa</item>
+    </string-array>
+</resources>
